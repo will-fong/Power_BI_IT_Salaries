@@ -11,7 +11,7 @@
 
 Within this repository, there is a Power BI dashboard for IT salaries.  Status is ``IN PROGRESS``.  Data source is the Computer Economics 2019 IT Salary Report.  Upcoming enhancements are to investigate trends using the 2020 and 2021 IT Salary Reports, design additional visualizations, and enhance existing visualizations.
 
-Preview currently available in GitHib or on [NBViewer](https://nbviewer.org/github/will-fong/Power_BI_IT_Salaries/blob/master/output/IT%20Salaries%20-%20Dashboard%20-%202021%20-%20Sample.pdf).
+Preview currently available in GitHub or on [NBViewer](https://nbviewer.org/github/will-fong/Power_BI_IT_Salaries/blob/master/output/IT%20Salaries%20-%20Dashboard%20-%202021%20-%20Sample.pdf).
 
 ## Table of Contents
 
